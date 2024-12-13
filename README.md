@@ -49,20 +49,6 @@ The following input variables are required:
 
 5. Verify the deployment in your monitoring and alerting setup.
 
-## Features
-
-### Kubernetes
-- Deploys essential Kubernetes resources for application workloads.
-- Configures monitoring for Kubernetes cluster health and performance.
-
-### Redis
-- Sets up Redis with monitoring enabled.
-- Includes alerts for high memory usage and connection issues.
-
-### Linux Alerts
-- Configures monitoring and alerting for Linux-based nodes.
-- Includes predefined alerts for disk space, CPU usage, and memory.
-
 ## Clean Up
 
 To destroy the resources created by this configuration:
